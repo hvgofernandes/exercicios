@@ -1,6 +1,6 @@
-package exercicios.EX00;
+package EX00;
 
-import exercicios.EX00.entities.Product;
+import EX00.entities.Product;
 import java.util.Locale;
 import java.util.Scanner;
 public class Main {

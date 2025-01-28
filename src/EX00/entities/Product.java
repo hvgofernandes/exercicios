@@ -1,4 +1,4 @@
-package exercicios.EX00.entities;
+package EX00.entities;
 
 public class Product {
     public String name;
