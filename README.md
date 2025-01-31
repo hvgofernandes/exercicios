@@ -9,7 +9,17 @@
 
 
 > Changelog/Diário 
-- 30/01/25 - Pendente.
+- 31/01/25 - Pouco progresso mas produtividade em execução de exercícios e conhecimento
+1. Último dia do mês, tentei fazer o codewars mais básico, embora com muita dificuldade e chatGPT tenha conseguido resolver, não consigo compreender o porquê de não aceitarem a minha solução.
+2. Reforçando: 6. Até agora preciso exercitar: estrutura de repetição continue, array multidimensional, list e enumerações!
+3. Embora tenha visto poucas aulas e focado principalmente em duas atividades, senti que o estudo foi produtivo!
+4. Já estou mais confiante para usar dates, o vetor for each e principalmente List, YES!
+- 30/01/25 - Um dia não tão produtivo, mas necessário
+1. Tive que fazer exame de sangue de longo jejum, então ocupou parte da manhã, atrasou a academia no geral, mas até que peguei uma boa sequência de estudos.
+2. Basicamente em 2 horas + de estudo/live fiquei tentando resolver as duas questões que envolviam listas, embora não tenha sido muita coisa estudada, era necessário eu quebrar a cabeça naqueles problemas.
+3. Assisti a segunda da pós, embora ainda teórica, sinto que consegui absorver mais, porém ainda ainda não vejo como aquele conhecimento pode ser útil.
+4. Adiantei as duas primeiras do curso Git do teo que está excelente, aprendi alguns comandos novos também.
+5. O objetivo seria terminar a seção 13 e 14 e começar a semana maratonando o dev dojo, para no final da primeira semana de fevereiro já estarmos fazendo a primeira lista do guia do lucas.
 - 29/01/25 - Dia com poucas horas de estudo, produtividade relativa.
 1. Acabei atrasando nas tarefas diárias e estudei pouco, adiantei um capítulo sobre datas em java.
 2. Por se tratar de um tópico novo, não estou com facilidade em assimilar o conteúdo, então preciso amanhã procurar exercícios para praticar nesse segmento.
