@@ -11,10 +11,12 @@ public class Worker {
 
     private Department department;
     private List<HourContract> contracts = new ArrayList<>();
-    public Worker(String name, String level, Double baseSalary) {
+
+    public Worker(String name, WorkerLevel level, Double baseSalary, Department department) {
         this.name = name;
-        this.level = WorkerLevel.valueOf(level);
+        this.level = level;
         this.baseSalary = baseSalary;
+        this.department = department;
     }
 
     public String getName() {
@@ -63,7 +65,7 @@ public class Worker {
         for (HourContract c : contracts) {
             cal.setTime(c.getDate());
             int c_year = cal.get(Calendar.YEAR);
-            int c_month = cal.get(Calendar.MONTH);
+            int c_month = 1 + cal.get(Calendar.MONTH); // Necessário adicionar + 1, pois o contador começa no "mês 0 (Demorei 30 minutos+ para achar este erro!")
             if (year == c_year && month == c_month) {
                 sum += c.totalValue();
             }

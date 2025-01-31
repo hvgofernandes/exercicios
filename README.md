@@ -9,6 +9,7 @@
 
 
 > Changelog/Diário 
+- 30/01/25 - Pendente.
 - 29/01/25 - Dia com poucas horas de estudo, produtividade relativa.
 1. Acabei atrasando nas tarefas diárias e estudei pouco, adiantei um capítulo sobre datas em java.
 2. Por se tratar de um tópico novo, não estou com facilidade em assimilar o conteúdo, então preciso amanhã procurar exercícios para praticar nesse segmento.
