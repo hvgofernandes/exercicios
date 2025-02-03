@@ -9,10 +9,11 @@
 
 
 > Changelog/Diário 
-- 01/02/25 -
+- 02/02/25 -
+1.
+- 01/02/25 - 
 1. Um dia bem ruim comparado aos outros, tanto no trabalho, quanto na saudade, na solidão e nos pensamentos, porém consegui fazer um exercício com enums, com lista, com tudo, sem ver a aula cara, sem usar chat, pequena vitória (houveram pequenas correções, sempre existe algo a melhorar claro, mas still, 95% do exercício)! :D
 2. Se eu não tinha conseguido nesse, consegui no de fixação per say, sem chat, sem aula, sem nada, na tora. Começei triste, e ainda estou honestamente, mas cara, felicidade em ter aprendido!
-3. 
 - 31/01/25 - Pouco progresso mas produtividade em execução de exercícios e conhecimento
 1. Último dia do mês, tentei fazer o codewars mais básico, embora com muita dificuldade e chatGPT tenha conseguido resolver, não consigo compreender o porquê de não aceitarem a minha solução.
 2. Reforçando: 6. Até agora preciso exercitar: estrutura de repetição continue, array multidimensional, list e enumerações!
