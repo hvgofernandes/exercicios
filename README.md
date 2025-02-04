@@ -9,12 +9,19 @@
 
 
 > Changelog/Diário 
-- 02/02/25 -
-1.
-- 01/02/25 - 
+- 03/02/25 - Progresso mediano, produtividade mediana, segunda média.
+1. Basicamente foquei em adiantar o dev dojo, amanhã devo estar chegando na aula 95, consegui pegar alguns conceitos novos, a abordagem é bem diferente mas é muito vantojoso ter a abordagem dele complementar ao professor nélio.
+2. Também adiantei o curso que estava devendo da alura, e já estou adiantando o segundo.
+3. Assisti também mais uma aula do curso de Git do téo, excelente abordagem e didática.
+4. Amanhã tem aula da pós, vamos sempre adiante e com muita fé.
+- 02/02/25 - Progresso mediano, boa produtividade, bom domingo.
+1. Um bom domingo eu diria, igreja, saindo com Gustavo, e de quebra todo cap. 14 resolvido e entendido.
+2. Consegue realizar o exercício de fixação sem ajuda nenhuma e mais de 70% do exercício normal, a assimilação e captação de conteúdo está bem melhor. essa semana provavelmente estaremos adentrando na lista final do carrilho.
+3. Vi uma aula de branches do teo me why, não sei porque não tinha tido a ideia de anotar coisas de Git no obsidian, enfim, estou fazendo isso agora.
+- 01/02/25 - Progresso mediano, com uma boa produtividade e um mix de emoções.
 1. Um dia bem ruim comparado aos outros, tanto no trabalho, quanto na saudade, na solidão e nos pensamentos, porém consegui fazer um exercício com enums, com lista, com tudo, sem ver a aula cara, sem usar chat, pequena vitória (houveram pequenas correções, sempre existe algo a melhorar claro, mas still, 95% do exercício)! :D
 2. Se eu não tinha conseguido nesse, consegui no de fixação per say, sem chat, sem aula, sem nada, na tora. Começei triste, e ainda estou honestamente, mas cara, felicidade em ter aprendido!
-- 31/01/25 - Pouco progresso mas produtividade em execução de exercícios e conhecimento
+- 31/01/25 - Pouco progresso, mas produtividade em execução de exercícios e conhecimento
 1. Último dia do mês, tentei fazer o codewars mais básico, embora com muita dificuldade e chatGPT tenha conseguido resolver, não consigo compreender o porquê de não aceitarem a minha solução.
 2. Reforçando: 6. Até agora preciso exercitar: estrutura de repetição continue, array multidimensional, list e enumerações!
 3. Embora tenha visto poucas aulas e focado principalmente em duas atividades, senti que o estudo foi produtivo!
