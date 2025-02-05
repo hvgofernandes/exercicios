@@ -9,6 +9,10 @@
 
 
 > Changelog/Diário 
+- 04/02/25 - Progresso mediano na teoria mediano+ na prática, fiz toda a lista de exercício do carrilho e primeiro checkpoint do guia terminado hoje.
+1. Toda a lista concluída, foram 24 questões, a grande maioria bem simples testando apenas lógica, algumas com o português ruim que levavam a confusão.
+2. Além disso, assisti uma aula do teo e o quase 20 aulas de devDojo, então estamos bem up to date, creio que amanhã já adiantaremos mais de um cap do professor nélio.
+3. Decidi que a rota será terminar professor nélio > 95 até 143 devDojo > cursos da alura > primeiro projeto cadastro > dev dojo 143 até 217 > curso sql mafra (50h+) // banco de dados boladão DevDojo > curso foda de maven (50h+) > estrutura de dados com java > 243 até 285 (termianr dev dojo) > API rest e Spring (Decidir curso) conciliar com o do DevDojo.
 - 03/02/25 - Progresso mediano, produtividade mediana, segunda média.
 1. Basicamente foquei em adiantar o dev dojo, amanhã devo estar chegando na aula 95, consegui pegar alguns conceitos novos, a abordagem é bem diferente mas é muito vantojoso ter a abordagem dele complementar ao professor nélio.
 2. Também adiantei o curso que estava devendo da alura, e já estou adiantando o segundo.
