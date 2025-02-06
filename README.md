@@ -9,6 +9,10 @@
 
 
 > Changelog/Diário 
+- 06/02/25 - Progresso mediano pra baixo, produtividade mediana, boas ideias.
+- Tive a ideia de fazer mais exercícios de Set e criar uma pasta para realizar exercícios similares gerados pelo GPT.
+- Até a study session da noite parecia ter sido uma boa ideia, porém passei mais de 1h num exercício só, seja pela má elaboração dele ou pela perca de tempo no mesmo.
+- Acho melhor focar em terminar o curso e tentar criar projetos paralelos e ir aprendendo com isso, ao invés de tentar ficar resolvendo exercícios, é isso!
 - 05/02/25 - Progresso bom, produtividade mediana, surra em interface.
 1. Quando acho que estou ficando bom, tomo uma surra pro exercício de lista, apesar de bem complexo eu não conseguiria fazer sem explicação. Vamos pra cima!
 2. Terminei todo o capítulo de interface e arquivos hoje, o de arquivos será útil para revisitar quando formos fazer o desafio do carrilho.
