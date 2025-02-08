@@ -9,6 +9,12 @@
 
 
 > Changelog/Diário 
+- 07/02/25 - Progresso mediano, produtividade boa, preciso de mais organização nos horários.
+1. Estou terminando agora o cap de lambda, mas fiquei feliz por não achar tão difícil, não compreendi 100%, mas diferente de interface e generics eu estou mais confiante.
+2. Decidi ir para a abordagem de projeto, terminando o curso do prof nélio, maratonando devDojo, finalmente avançarei para o projetinho do lucas.
+3. Paralelo a isso, entrei na liga de algoritmos da faculdade, então terei meio que uma prática boa e não preciso me preocupar tanto mais em ficar defasado em hard skill.
+4. Gostaria também de incluir o curso de python do guanabara a noite, uma horinha pelo menos, pois o professor ministra em python e sinto que preciso entender python também.
+5. Obrigado Deus, por hoje, por tudo.
 - 06/02/25 - Progresso mediano pra baixo, produtividade mediana, boas ideias.
 - Tive a ideia de fazer mais exercícios de Set e criar uma pasta para realizar exercícios similares gerados pelo GPT.
 - Até a study session da noite parecia ter sido uma boa ideia, porém passei mais de 1h num exercício só, seja pela má elaboração dele ou pela perca de tempo no mesmo.

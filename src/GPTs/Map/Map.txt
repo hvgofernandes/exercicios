@@ -1,0 +1,26 @@
+1)
+Uma pesquisa de opinião foi realizada para determinar a popularidade de diferentes marcas de smartphones. Os dados foram coletados em diversas lojas e armazenados em um arquivo .csv, onde cada linha contém o nome da marca e a quantidade de votos recebidos naquela loja.
+
+Seu programa deve ler os registros de votação a partir de um arquivo e gerar um relatório consolidado com o total de votos para cada marca.
+
+Exemplo de entrada (smartphones.csv):
+
+Samsung,15
+Apple,10
+Xiaomi,8
+Samsung,12
+Apple,9
+Motorola,5
+Xiaomi,4
+Samsung,6
+Saída esperada no console:
+
+Apple: 19
+Motorola: 5
+Samsung: 33
+Xiaomi: 12
+Requisitos:
+O programa deve solicitar ao usuário o caminho do arquivo.
+Deve ler o arquivo .csv e armazenar os dados em um Map<String, Integer>, onde a chave é o nome da marca e o valor é a soma dos votos.
+Caso uma marca apareça mais de uma vez, os votos devem ser somados.
+No final, exibir o relatório no console.
