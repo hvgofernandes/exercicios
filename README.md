@@ -9,6 +9,8 @@
 
 
 > Changelog/Diário 
+- 08/02/25 
+1. Quick update pra não perder o streak!
 - 07/02/25 - Progresso mediano, produtividade boa, preciso de mais organização nos horários.
 1. Estou terminando agora o cap de lambda, mas fiquei feliz por não achar tão difícil, não compreendi 100%, mas diferente de interface e generics eu estou mais confiante.
 2. Decidi ir para a abordagem de projeto, terminando o curso do prof nélio, maratonando devDojo, finalmente avançarei para o projetinho do lucas.
