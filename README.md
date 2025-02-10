@@ -9,6 +9,10 @@
 
 
 > Changelog/Diário
+- 10/02/25 Progresso baixo, apenas aulas.
+1. Adiantei por hora 18 aulas de devDojo e de certeza estaremos começando o projeto amanhã.
+2. Talvez eu adiante mais um pouco depois do JJ, ou boson treinamentos.
+3. Finalmente assisti a aula da quarta passada da pós. Enfim, seguimos.
 - 09/02/25 - Progresso baixo, assistindo apenas aulas.
 1. Tive meu primeiro grande viewer, o negodopéroxo, interagiu bastante na live e deu alguns toques.
 2. Adiantei 15 aulas do devDojo.
