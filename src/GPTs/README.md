@@ -16,3 +16,4 @@ Cada exercício terá um arquivo explicando a questão.
 - Generics, set, Map
 - Arquivos(FileReader, Buffered Reader, Tri with, manipulação arquivos e pastas);
 - Exceções
+- Lambda/stream

@@ -8,7 +8,15 @@
 
 
 
-> Changelog/Diário 
+> Changelog/Diário
+- 09/02/25 - Progresso baixo, assistindo apenas aulas.
+1. Tive meu primeiro grande viewer, o negodopéroxo, interagiu bastante na live e deu alguns toques.
+2. Adiantei 15 aulas do devDojo.
+3. negão do pé roxo me recomendou fortemente fazer o curso de linux e já ir aprendendo o básico.
+4. Embora não tenha codado hoje, não sinto que foi tão improdutivo. Amanhã conseguiremos adiantar muito mais. Força!. Oss. Deus no comando.
+- 08/02/25 - Progresso nulo, o commit foi emergencial do próprio celular.
+1. Praticamente não consegue fazer nada, live de 40 minutos.
+2. Decidi que não iria seguir no curso do prof. nélio, ir até 145 devDojo, projeto e curso SQL, vou voltar pra ele só depois.
 - 07/02/25 - Progresso mediano, produtividade boa, preciso de mais organização nos horários.
 1. Estou terminando agora o cap de lambda, mas fiquei feliz por não achar tão difícil, não compreendi 100%, mas diferente de interface e generics eu estou mais confiante.
 2. Decidi ir para a abordagem de projeto, terminando o curso do prof nélio, maratonando devDojo, finalmente avançarei para o projetinho do lucas.
