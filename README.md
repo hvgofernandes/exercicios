@@ -9,6 +9,13 @@
 
 
 > Changelog/Diário
+- 11/02/25 Progresso bom, terminei a segunda parte do devDojo e iniciei o primeiro projeto.
+1. Cheganos na aula 143 do devDojo.
+2. Cheguei até o quarto passo do desafio, fiquei empacado no cadastro da pergunta mas já sei o caminho para amanhã.
+3. Apesar de ter utilizar o chat, tive todas as ideias para realizar e faltou apenas o recurso, a hard-skill para executa-las.
+acho que isso é algo que vem mais com o tempo e prática de estudo, mas estou satisfeito :).
+4. Assisti também a aula da pós logo pela manhã mas acho que a partir da próx aula, deixarei pra ser a última coisa, pois
+o começo do dia tende a ser produtivo e acabo "gastando" energia em uma aula de 1h muito teórica.
 - 10/02/25 Progresso baixo, apenas aulas.
 1. Adiantei por hora 18 aulas de devDojo e de certeza estaremos começando o projeto amanhã.
 2. Talvez eu adiante mais um pouco depois do JJ, ou boson treinamentos.
