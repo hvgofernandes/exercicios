@@ -9,6 +9,11 @@
 
 
 > Changelog/Diário
+- 12/02/25 Progresso excelente, terminei o desafio!
+1. Consegui terminar em 2 dias, sendo que diferente de ontem dediquei o dia todo para isso.
+2. O maior problema realmente foi o mesmo de ontem, registrar novas perguntas, mas eu fui tão afundo no que ele pedia
+que os requisitos de aprofundamento pedidos no passo 6 e 7, eu já tinha feito parcialmente.
+3. A partir de amanhã estarei retomando devDojo, conciliando com o curso de SQL!, e logo após mais algum projeto.
 - 11/02/25 Progresso bom, terminei a segunda parte do devDojo e iniciei o primeiro projeto.
 1. Cheganos na aula 143 do devDojo.
 2. Cheguei até o quarto passo do desafio, fiquei empacado no cadastro da pergunta mas já sei o caminho para amanhã.
