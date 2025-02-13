@@ -9,6 +9,8 @@
 
 
 > Changelog/Diário
+- 13/02/2025 - Produtividade mais baixa so far!
+1. Assisti cerca de 15 aulas de devDojo apenas.
 - 12/02/25 Progresso excelente, terminei o desafio!
 1. Consegui terminar em 2 dias, sendo que diferente de ontem dediquei o dia todo para isso.
 2. O maior problema realmente foi o mesmo de ontem, registrar novas perguntas, mas eu fui tão afundo no que ele pedia
