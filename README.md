@@ -9,6 +9,9 @@
 
 
 > Changelog/Diário
+- 15/02/2025 - Produtividade mais baixa ainda, for now.
+- Assisti 1 módulo (2 aulas) do professor marcelo iury.
+- Terminei o primeiro módulo do curso do mafra.
 - 14/02/2025 - Produtividade baixa!
 1. Assisti mais de 15 aulas do devDojo.
 2. Comecei o curso de SQL do felipe mafra.
