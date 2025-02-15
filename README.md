@@ -9,6 +9,11 @@
 
 
 > Changelog/Diário
+- 14/02/2025 - Produtividade baixa!
+1. Assisti mais de 15 aulas do devDojo.
+2. Comecei o curso de SQL do felipe mafra.
+3. Irei perguntar para o gabriel qual outro curso de SQL ele me recomenda.
+4. Tenho que assistir a aula de quarta da pós, clube de algoritmos, ajeitar o projeto para a call com lucas na segunda.
 - 13/02/2025 - Produtividade mais baixa so far!
 1. Assisti cerca de 15 aulas de devDojo apenas.
 - 12/02/25 Progresso excelente, terminei o desafio!
