@@ -19,7 +19,9 @@
 4. Tenho que assistir a aula de quarta da pós, clube de algoritmos, ajeitar o projeto para a call com lucas na segunda.
 - 13/02/2025 - Produtividade mais baixa so far!
 1. Assisti cerca de 15 aulas de devDojo apenas.
-- 12/02/25 Progresso excelente, terminei o desafio!
+
+- 12/02/25 Progresso excelente, terminei o desafio! 
+Link desafio concluído: [PROJETO](https://github.com/hvgofernandes/sistemas-cadastros/tree/main)
 1. Consegui terminar em 2 dias, sendo que diferente de ontem dediquei o dia todo para isso.
 2. O maior problema realmente foi o mesmo de ontem, registrar novas perguntas, mas eu fui tão afundo no que ele pedia
 que os requisitos de aprofundamento pedidos no passo 6 e 7, eu já tinha feito parcialmente.
