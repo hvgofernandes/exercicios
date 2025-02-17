@@ -1,4 +1,4 @@
-# *Repositório de exercícios dos cursos de java do professor nélio e do devDojo.*
+# *Repositório de registro dos meus estudos nos mais diversos cursos e diário do meu progresso.*
 
 ----
 
@@ -9,9 +9,20 @@
 
 
 > Changelog/Diário
-- 15/02/2025 - Produtividade mais baixa ainda, for now.
-- Assisti 1 módulo (2 aulas) do professor marcelo iury.
-- Terminei o primeiro módulo do curso do mafra.
+- 17/02/2025 -
+1. Terminei todo o material disponível do professor marcelo iury, deu pra ter uma base superficial de BD e SQL, graças
+a ele conheci o professor Cláudio Campelo que traz um aprofundamento em SQL em algébra linear, estará na to watchlist.
+2. Estarei aproveitando e fazendo todas as listas de lógicas que ele dispõe, assim como seus projetos.
+3. Optei por começar o curso de SQL do professor andré também, ele é bem mais curto que o do mafra e tem uma didática excelente.
+4. Comecei também a fazer os exercícios de lógica do professor marcelo iury, estarei conciliando alguns por dia.
+- 16/02/2025 - Produtividade razoável, call com o mestre.
+1. Assisti 20 aulas do devDojo.
+2. 1 aula de banco de dados do professor marcelo iury
+3. Primeira call com o carrilho para tirar dúvidas, alguns ajustes no projeto e tópicos para estudar e melhorar.
+4. 15/02/2025 - Produtividade mais baixa ainda, for now.
+1. Assisti 1 módulo (2 aulas) do professor marcelo iury.
+2. Terminei o primeiro módulo do curso do mafra.
+3. Assisti 9 aulas do devDojo.
 - 14/02/2025 - Produtividade baixa!
 1. Assisti mais de 15 aulas do devDojo.
 2. Comecei o curso de SQL do felipe mafra.
