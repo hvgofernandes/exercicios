@@ -15,6 +15,7 @@ a ele conheci o professor Cláudio Campelo que traz um aprofundamento em SQL em 
 2. Estarei aproveitando e fazendo todas as listas de lógicas que ele dispõe, assim como seus projetos.
 3. Optei por começar o curso de SQL do professor andré também, ele é bem mais curto que o do mafra e tem uma didática excelente.
 4. Comecei também a fazer os exercícios de lógica do professor marcelo iury, estarei conciliando alguns por dia.
+5. Passando problemas para dar pull na branch criada no remoto.
 - 16/02/2025 - Produtividade razoável, call com o mestre.
 1. Assisti 20 aulas do devDojo.
 2. 1 aula de banco de dados do professor marcelo iury
