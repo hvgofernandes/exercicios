@@ -9,6 +9,11 @@
 
 
 > Changelog/Diário
+- 18/02/2025 - Produtividade boa. Aulas e exercícios de lógica
+1. Assisti três módulos do curso de SQL do professor andré.
+2. Assisti uma das aulas atrasadas da pós.
+3. exercícíos padrão de lógica do professor marcelo iury.
+4. Comecei a leitura do livro SQL, para conciliar com os estudos do curso.
 - 17/02/2025 -
 1. Terminei todo o material disponível do professor marcelo iury, deu pra ter uma base superficial de BD e SQL, graças
 a ele conheci o professor Cláudio Campelo que traz um aprofundamento em SQL em algébra linear, estará na to watchlist.
