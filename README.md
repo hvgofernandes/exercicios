@@ -9,6 +9,11 @@
 
 
 > Changelog/Diário
+- 19/02/2025 -
+1. Assisti 2 módulos do curso de SQL do professor andré, falta apenas mais 2 sobre a criação de um DB.
+2. Resolvi 2 exercícios de revisão/lógica do professor marcelo iury.
+3. Assisti a aula apresentando o trabalho da pós.
+4. Terminei um módulo do mafra
 - 18/02/2025 - Produtividade boa. Aulas e exercícios de lógica
 1. Assisti três módulos do curso de SQL do professor andré.
 2. Assisti uma das aulas atrasadas da pós.
