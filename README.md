@@ -9,11 +9,18 @@
 
 
 > Changelog/Diário
+- 20/02/2025 - 
+1. Fiz 2 exercícios de lógica do prof. marcelo iury (passei um pouco de perrengue! 30 min nos 2.)
+2. Terminei o primeiro curso de banco de dados/SQL do professor andré iacono, voltarei para fazer mais de seus cursos,
+didática incrível, rápido e prático. Seguimos com o do mafra.
+3. Fizemos os primeiros exercícios de SQL de revisão e estou confiante na matéria.
 - 19/02/2025 -
 1. Assisti 2 módulos do curso de SQL do professor andré, falta apenas mais 2 sobre a criação de um DB.
 2. Resolvi 2 exercícios de revisão/lógica do professor marcelo iury.
 3. Assisti a aula apresentando o trabalho da pós.
-4. Terminei um módulo do mafra
+4. Terminei um módulo do mafra.
+5. Pós JJ ainda terminei o penúltimo módulo do curso do professor André, amanhã acabo o primeiro curso de SQL, ainda
+terá o do mafra, o do devDojo (banco de dados boladão) e a revisão do professor claúdio campelo. 
 - 18/02/2025 - Produtividade boa. Aulas e exercícios de lógica
 1. Assisti três módulos do curso de SQL do professor andré.
 2. Assisti uma das aulas atrasadas da pós.
