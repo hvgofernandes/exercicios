@@ -9,6 +9,9 @@
 
 
 > Changelog/Diário
+- 21/02/2025 - Dia nada produtivo, compensaremos amanhã.
+1. Revisão dos exercícios do mafra e conclusão de 1 módulo.
+2. Resolvi um exercício de revisão de lógica do prof. marcleo iury
 - 20/02/2025 - 
 1. Fiz 2 exercícios de lógica do prof. marcelo iury (passei um pouco de perrengue! 30 min nos 2.)
 2. Terminei o primeiro curso de banco de dados/SQL do professor andré iacono, voltarei para fazer mais de seus cursos,
@@ -130,7 +133,6 @@ o começo do dia tende a ser produtivo e acabo "gastando" energia em uma aula de
 4. Preciso voltar tanto com a leitura dos tártaros (abandonei Drogo mesmo), e começar a leitura de conteúdo da área, sinto que isso pode contribuir para minha compreensão geral.
 5. Assistirei também a segunda aula da pós, espero que consiga aproveitar o máximo da mesma.
 6. Até agora preciso exercitar: estrutura de repetição continue, array multidimensional, list e enumerações!
-7. Hoje senti mais falta do que o normal, mas seguimos de cabeça erguida. 
 - 28/01/25 - Dia com muitas horas de estudo, mas pouco produtivo.
 1. Resolvi uma lista de vetores, porém já tinha feito ela antes.
 2. Passei bastante perrengue para entender o conceito de listas, preciso revir isso, só fiz um exercício de fixação com ajuda do professor nélio.
@@ -145,6 +147,6 @@ o começo do dia tende a ser produtivo e acabo "gastando" energia em uma aula de
 1. Noção muito superficial de Git (estou a dar preferência para dominar o Git Bash ao invés do Git Desktop).
 2. Na data, estou nos blocos de POO de ambos os cursos e prestes a começar as aulas da pós.
 3. O projeto das lives está no quarto dia!
-4. Ainda com vontade absurda de ligar pra ela e mostrar o meu brand new GitHub, she would like it.
+
 
 
