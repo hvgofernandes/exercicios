@@ -9,6 +9,9 @@
 
 
 > Changelog/Diário
+- 23/02/2025 - Produtividade mediana.
+1. Resolvido 2 exercícios de revisão de lógica.
+2. Adiantei 2 módulos do curso do mafra.
 - 22/02/2025 - Sequência de dias atípicos
 1. Desde o começo da jornada, não tive dias que fiquei sem tempo total de estudo e de lives.
 2. Começaremos com uma rotina ainda mais produtiva a partir de segunda
