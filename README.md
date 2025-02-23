@@ -9,6 +9,10 @@
 
 
 > Changelog/Diário
+- 22/02/2025 - Sequência de dias atípicos
+1. Desde o começo da jornada, não tive dias que fiquei sem tempo total de estudo e de lives.
+2. Começaremos com uma rotina ainda mais produtiva a partir de segunda
+3. Porém, consegui fazer um exercício de revisão de lógica e um módulo de SQL. Vamos pra cima!
 - 21/02/2025 - Dia nada produtivo, compensaremos amanhã.
 1. Revisão dos exercícios do mafra e conclusão de 1 módulo.
 2. Resolvi um exercício de revisão de lógica do prof. marcleo iury
