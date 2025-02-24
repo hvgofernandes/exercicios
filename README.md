@@ -9,6 +9,9 @@
 
 
 > Changelog/Diário
+- 24/02/2025 - Boa produtividade
+1. Adiantamos vários módulos do mafra, maior live até agora de 5:40h!
+2. Resolvemos um exercício de lógica.
 - 23/02/2025 - Produtividade mediana.
 1. Resolvido 2 exercícios de revisão de lógica.
 2. Adiantei 2 módulos do curso do mafra.
