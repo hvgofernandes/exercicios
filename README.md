@@ -9,6 +9,9 @@
 
 
 > Changelog/Diário
+- 25/02/2025
+1. Resolvi um exercício de revisão de lógica
+2. Adiantei quase todo o curso do mafra, amanhã seguimos para o módulo JDBC do professor nélio!
 - 24/02/2025 - Boa produtividade
 1. Adiantamos vários módulos do mafra, maior live até agora de 5:40h!
 2. Resolvemos um exercício de lógica.
