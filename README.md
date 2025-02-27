@@ -9,6 +9,8 @@
 
 
 > Changelog/Diário
+- 27/02/2025
+1. Terminei o módulo de JDBC do professor nélio.
 - 26/02/2025 - mais produtivo so far
 1. Curso de JDBC retomado, passei perrengue para tentar conectar o banco com IntelliJ, já que o prof nélio estava usando
 o eclipse, mas pesquisando bastante consegui resolver.
