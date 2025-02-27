@@ -9,9 +9,21 @@
 
 
 > Changelog/Diário
+- 26/02/2025 - mais produtivo so far
+1. Curso de JDBC retomado, passei perrengue para tentar conectar o banco com IntelliJ, já que o prof nélio estava usando
+o eclipse, mas pesquisando bastante consegui resolver.
+2. Comecei o primeiro projeto de Banco de Dados em união com Java. O curso tá muito interessante. Focaremos nele por
+enquanto, assim que estiver confiante faremos o professor marcelo iury, que é na mesma pegada.
+3. Resolvi também mais um exercício de lógica de revisão e a lista começou a ficar mais difícil.
+4. Preciso também assistir uma aula da pós atrasada e mais diversas do curso de algoritmos, mas o ideal seria aprender 
+minimamente python, para compreender melhor.
+5. Surpreendentemente quase terminei o módulo de JDBC, poderia até terminar, mas optei por descansar e deixar algumas
+tasks finais para o dia de amanhã, até para servir como uma fixação, muito contente com o progresso hoje, esse foi de longe
+o dia mais produtivo, foram 7 horas de live no total.
+6. Amanhã seguiremos com o curso e entraremos no módulo de Git e Github.
 - 25/02/2025
 1. Resolvi um exercício de revisão de lógica
-2. Adiantei quase todo o curso do mafra, amanhã seguimos para o módulo JDBC do professor nélio!
+2. Terminei o curso do mafra de banco de dados. 
 - 24/02/2025 - Boa produtividade
 1. Adiantamos vários módulos do mafra, maior live até agora de 5:40h!
 2. Resolvemos um exercício de lógica.
