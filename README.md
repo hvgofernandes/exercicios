@@ -9,6 +9,10 @@
 
 
 > Changelog/Diário
+- 28/02/2025 -
+1. Salve negopéroxo.
+2. Terminei o módulo de GitHub e o módulo de JPA/Hibernate(preciso fazer mais cursos disso) mas deu pra pegar uma boa base.
+3. Comecei efetivamente o curso de spring boot do professor nélio.
 - 27/02/2025
 1. Terminei o módulo de JDBC do professor nélio.
 - 26/02/2025 - mais produtivo so far
