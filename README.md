@@ -9,6 +9,12 @@
 
 
 > Changelog/Diário
+- 01/03/2025 -
+1. Adiantando os módulos de Spring Boot, confesso que muitas horas fico perdido e me questiono se devo continuar, mas
+acho que vou insistir mesmo sem entender 100%, se eu conseguir pegar um ou outro conceito que vá me ajudar posteriormente
+já valeu.
+2. Achei por acaso meus arquivos antigos, de dezembro, exercícios no visualG, estarei upando-os para o GitHub
+3. Tenho que terminar o desafio da Alura, assistir uma aula atrasada da pós, assistir as aulas do clube de algoritmo.
 - 28/02/2025 -
 1. Salve negopéroxo.
 2. Terminei o módulo de GitHub e o módulo de JPA/Hibernate(preciso fazer mais cursos disso) mas deu pra pegar uma boa base.
