@@ -9,6 +9,11 @@
 
 
 > Changelog/Diário
+- 02/02/2025 -
+1. Terminei o primeiro módulo de springboot do curso, confesso que no começo estava overwhelming, mas insistindo sinto
+que consegui entender melhor, porém preciso fazer 4 ou 5 outros cursos e finalmente um projeto sozinho para pegar a essência.
+2. Seguirei com o curso do professor nélio, entrando no projeto de xadrez.
+3. Partiremos depois para a alura e conciliando com a apostila da saudosa CAELUM.
 - 01/03/2025 -
 1. Adiantando os módulos de Spring Boot, confesso que muitas horas fico perdido e me questiono se devo continuar, mas
 acho que vou insistir mesmo sem entender 100%, se eu conseguir pegar um ou outro conceito que vá me ajudar posteriormente
