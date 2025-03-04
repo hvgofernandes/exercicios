@@ -9,7 +9,13 @@
 
 
 > Changelog/Diário
-- 02/02/2025 -
+- 03/03/2025 -
+1. Dia bem produtivo, fiz cerca de 8 horas de live realizando o projeto de xadrez.
+2. Apesar de bem desafiador e algumas coisas que são bem difíceis de entender, sinto que deu pra pegar a essência de tudo.
+3. Li também algumas páginas da apostila da CAELUM, ficou faltando aquele exercício básico de lógica e as pendências da pós.
+4. Amanhã terminaremos o Xadrez, farei o README caprichado e já seguiremos pro curso de 2h de Spring do YT.
+5. Tenho que assinar a alura também!
+- 02/03/2025 -
 1. Terminei o primeiro módulo de springboot do curso, confesso que no começo estava overwhelming, mas insistindo sinto
 que consegui entender melhor, porém preciso fazer 4 ou 5 outros cursos e finalmente um projeto sozinho para pegar a essência.
 2. Seguirei com o curso do professor nélio, entrando no projeto de xadrez.
