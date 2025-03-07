@@ -9,6 +9,10 @@
 
 
 > Changelog/Diário
+- 04/03/2025 - 07/03/2025
+1. Não consegui ter muita produtivade nesse período, terminei o projeto de Xadrez, tive problemas pra começar o de Mongo mas tudo certo
+2. Assisti dois mini-cursos de spring que me deram uma base melhor.
+3. Voltaremos com tudo a partir do dia 09/03.
 - 03/03/2025 -
 1. Dia bem produtivo, fiz cerca de 8 horas de live realizando o projeto de xadrez.
 2. Apesar de bem desafiador e algumas coisas que são bem difíceis de entender, sinto que deu pra pegar a essência de tudo.
