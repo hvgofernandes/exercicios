@@ -9,6 +9,14 @@
 
 
 > Changelog/Diário
+- 12/03/2025 -
+1. Terminei a parte de concorrência do maratona java.
+2. Assinei a alura para fazermos os cursos de java lá.
+- 11/03/2025 - 
+1. Organizei os cursos a serem seguidos.
+2. Retomei ao curso maratona java e terminei todo o assunto de threads e parte de concorrência.
+3. Embora sejam assuntos bem avançados em java e pouquíssimo usados no mercado, é interessante saber o que é e entede-los.
+4. 
 - 10/03/2025 - Depois de alguns dias sem atualizar, tive um dia produtivo.
 1. Terminei o projeto com MongoDB e o curso do professor nélio.
 2. Terminei o projeto da faculdade de DDD.
