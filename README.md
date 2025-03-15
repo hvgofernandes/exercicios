@@ -9,6 +9,11 @@
 
 
 > Changelog/Diário
+- 13/03 e 14/03/2025 - Correria grande nos dias, sem conseguir fazer live, voltaremos 100% na segunda-feira.
+1. Fiz uma checklist diária no obsidian de objetivos a serem cumpridos.
+2. Adiantei 2 módulos de cursos básicos da alura.
+3. Começando a cadeira de devOps da faculdade, necessito fazer um curso ou na uDemy ou na alura sobre para complementar os conhecimentos.
+4. Continuei assistindo o curso de spring do fiasco (incluido um video de YT por dia no checklist)
 - 12/03/2025 -
 1. Terminei a parte de concorrência do maratona java.
 2. Assinei a alura para fazermos os cursos de java lá.
@@ -16,15 +21,6 @@
 1. Organizei os cursos a serem seguidos.
 2. Retomei ao curso maratona java e terminei todo o assunto de threads e parte de concorrência.
 3. Embora sejam assuntos bem avançados em java e pouquíssimo usados no mercado, é interessante saber o que é e entede-los.
-4. 
-- 10/03/2025 - Depois de alguns dias sem atualizar, tive um dia produtivo.
-1. Terminei o projeto com MongoDB e o curso do professor nélio.
-2. Terminei o projeto da faculdade de DDD.
-3. Seguimos no objetivo.
-- 04/03/2025 - 07/03/2025
-1. Não consegui ter muita produtivade nesse período, terminei o projeto de Xadrez, tive problemas pra começar o de Mongo mas tudo certo
-2. Assisti dois mini-cursos de spring que me deram uma base melhor.
-3. Voltaremos com tudo a partir do dia 09/03.
 - 10/03/2025 - Depois de alguns dias sem atualizar, tive um dia produtivo.
 1. Terminei o projeto com MongoDB e o curso do professor nélio.
 2. Terminei o projeto da faculdade de DDD.
