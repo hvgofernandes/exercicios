@@ -5,11 +5,12 @@
 
 - Curso de UML- Bóson Treinamentos (YT)
 - Maratona java - devDojo (YT)
-- Java completo - uDemy - nelio alves
 
 ## Terminados
 
 ---
+
+13. Java completo - uDemy - nelio alves - 11/03/2025
 12. Banco de Dados - uDemy - felipe mafra - 26/02/2025
 11. Banco de Dados - André Iacono - uDemy - 20/02/2025
 10. Banco de Dados - Marcelo Iury (YT) - 17/02/2025

@@ -9,6 +9,10 @@
 
 
 > Changelog/Diário
+- 18/03/2025 - Rotina baguncada.
+1. Tentando normalizar, segundo dia de lives, estou sofrendo pra pegar o ritmo que outrora tive.
+2. Terminei o curso de docker do iacono e estarei assistindo 10/20min de aula da pós por dia.
+3. O objetivo é terminar os cursos básicos de java da alura e partir para o estudo em spring.
 - 13/03 e 14/03/2025 - Correria grande nos dias, sem conseguir fazer live, voltaremos 100% na segunda-feira.
 1. Fiz uma checklist diária no obsidian de objetivos a serem cumpridos.
 2. Adiantei 2 módulos de cursos básicos da alura.
